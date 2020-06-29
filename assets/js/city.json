@@ -1,0 +1,14 @@
+{
+"city": [
+    {
+        "name":"Dublin",
+        "language": "English",
+        "cost":"$$$$",
+        "attraction (1)":"Guiness Storehouse",
+        "attraction (2)":"Temple Bar",
+        "lat":"53.3498",
+        "lng":"-6.260300"
+    }
+]
+
+}
